@@ -8,7 +8,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="src\assets\Screenshot_2024-10-26_232601-removebg-preview.png"
+                            src="https://github.com/GeekAvi007/Routy.io/blob/main/src/assets/Screenshot_2024-10-26_232601-removebg-preview.png?raw=true"
                             className="mr-3 h-12"
                             alt="Logo"
                         />
